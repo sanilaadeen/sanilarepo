@@ -1,7 +1,6 @@
 
 * {
     margin: 0;
-<<<<<<< HEAD
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
@@ -51,10 +50,6 @@ body {
 header, section {
     padding: 60px 20px;
     text-align: center;
-=======
-    background-color: #efefdd;
-    color: #333;
->>>>>>> db85f9b (changed the bg in style.css)
 }
 
 header {
