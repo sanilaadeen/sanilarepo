@@ -6,5 +6,7 @@ A simple website template built with HTML and CSS.
 
 * `index.html` - The content and layout of the website.
 * `style.css` - The colors, fonts, and design styles.
-# sanilarepo
-simple Amazing website 
+
+simple website
+* `about.html`  
+*  `contact.html` 
